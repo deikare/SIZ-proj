@@ -1,0 +1,521 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="1636px" height="1088px">
+  <style type="text/css"><![CDATA[	.style1{fill:#F0F0F0;stroke:#666666;stroke-width:1;}	.style2{fill:#E6FF97;stroke:#62A716;stroke-width:2;}	.style3{fill:#ECEFFF;stroke:#03689A;stroke-width:2;}	.style4{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def14);}	.style5{fill:#FFFFCC;stroke:#A6A61D;stroke-width:2;}	.style6{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def17);}	.style7{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def18);}	.style8{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def19);}	.style9{fill:#EEAAAA;stroke:#990000;stroke-width:3;}	.style10{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def22);}	.style11{fill:#FFFFFF;stroke:#000000;stroke-width:2;}	.style12{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def27);}	.style13{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def28);}	.style14{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def29);}	.style15{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def30);}	.style16{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def36);}	.style17{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def38);}	.style18{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def39);}	.style19{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def40);}	.style20{fill:#FFFFFF;}	.style21{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def46);}	.style22{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def47);}	.style23{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def48);}	.style24{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def49);}	.style25{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def50);}	.style26{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def51);}	.style27{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def52);}	.style28{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def53);}	.style29{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def54);}	.style30{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def55);}	.style31{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def57);}	.style32{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def59);}	.style33{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def61);}	.style34{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def63);}	.style35{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def65);}	.style36{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def67);}	.style37{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def69);}	.style38{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def71);}	.style39{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def73);}	.style40{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def75);}]]></style>
+  <defs>
+    <path id="a94a9d6a-7d3c-4be5-81d4-a4878bca4ceeHeaderPath" fill-rule="evenodd" d="M 31,718.5 L 494.5,718.5 L 494.5,768.5 L 31,768.5 Z " />
+    <clipPath id="5bff58c9-1dae-4e4b-95df-739b827d5302HeaderClipPath">
+      <use xlink:href="#a94a9d6a-7d3c-4be5-81d4-a4878bca4ceeHeaderPath" />
+    </clipPath>
+    <path id="85822ddb-ee23-4616-8992-8574dee99397HeaderPath" fill-rule="evenodd" d="M 81,450 L 276,450 L 276,480 L 81,480 Z " />
+    <clipPath id="b9b05231-43ad-4f72-a09c-819c643da916HeaderClipPath">
+      <use xlink:href="#85822ddb-ee23-4616-8992-8574dee99397HeaderPath" />
+    </clipPath>
+    <path id="ed1235b4-3d8d-4890-a58c-2603b3d038a2HeaderPath" fill-rule="evenodd" d="M 81,718.5 L 349.5,718.5 L 349.5,748.5 L 81,748.5 Z " />
+    <clipPath id="f1b79b4b-c2d8-464b-a2a9-e2e4b7c132daHeaderClipPath">
+      <use xlink:href="#ed1235b4-3d8d-4890-a58c-2603b3d038a2HeaderPath" />
+    </clipPath>
+    <path id="eedcf08f-bc2b-4433-b95d-095457183722HeaderPath" fill-rule="evenodd" d="M 31,975 L 228,975 L 228,1025 L 31,1025 Z " />
+    <clipPath id="f2e8a71e-77ba-4b12-a1a2-ad7932ed1478HeaderClipPath">
+      <use xlink:href="#eedcf08f-bc2b-4433-b95d-095457183722HeaderPath" />
+    </clipPath>
+    <polygon id="def9" points="30,-0 -0,-0 -0,50 40,50 40,10 30,-0 30,10 40,10 " />
+    <clipPath id="def10">
+      <use xlink:href="#def9" transform="translate(0,0)" />
+    </clipPath>
+    <ellipse id="def11" cx="15" cy="15" rx="15" ry="15" />
+    <clipPath id="def12">
+      <use xlink:href="#def11" transform="translate(0,0)" />
+    </clipPath>
+    <path id="def13" fill-rule="evenodd" d="M 7,0 L 83,0 L 83,0 C 86.87,-0 90,3.13 90,7 C 90,7 90,7 90,7 L 90,7 L 90,53 L 90,53 C 90,56.87 86.87,60 83,60 L 83,60 L 7,60 L 7,60 C 3.13,60 0,56.87 0,53 L 0,53 L 0,7 L 0,7 C -0,3.13 3.13,0 7,0 Z " />
+    <clipPath id="def14">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <polygon id="def15" points="-0,20 20,-0 40,20 20,40 -0,20 " />
+    <clipPath id="def16">
+      <use xlink:href="#def15" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def17">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def18">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def19">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def20">
+      <use xlink:href="#def11" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def21">
+      <use xlink:href="#def15" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def22">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <path id="def23" fill-rule="evenodd" d="M 30,15 C 30,23.28 23.28,30 15,30 C 6.72,30 -0,23.28 -0,15 C -0,6.72 6.72,-0 15,-0 C 23.28,-0 30,6.72 30,15 Z M 27,15 C 27,21.63 21.63,27 15,27 C 8.37,27 3,21.63 3,15 C 3,8.37 8.37,3 15,3 C 21.63,3 27,8.37 27,15 Z " />
+    <clipPath id="def24">
+      <use xlink:href="#def23" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def25">
+      <use xlink:href="#def15" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def26">
+      <use xlink:href="#def15" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def27">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def28">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def29">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def30">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def31">
+      <use xlink:href="#def11" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def32">
+      <use xlink:href="#def9" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def33">
+      <use xlink:href="#def15" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def34">
+      <use xlink:href="#def23" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def35">
+      <use xlink:href="#def11" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def36">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def37">
+      <use xlink:href="#def11" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def38">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def39">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def40">
+      <use xlink:href="#def13" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def41">
+      <use xlink:href="#def15" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def42">
+      <use xlink:href="#def15" transform="translate(0,0)" />
+    </clipPath>
+    <marker id="defMarkerShadow" viewbox="0 0 10 8" refX="10" refY="4" markerUnits="strokeWidth" markerWidth="10" markerHeight="8" orient="auto" fill="#000000" fill-opacity="0.1">
+      <path fill-rule="evenodd" d="M 9,4 L 1,9 L 3,4 L 1,-1 Z " />
+    </marker>
+    <marker id="defMarker" viewbox="0 0 10 8" refX="10" refY="4" markerUnits="strokeWidth" markerWidth="10" markerHeight="8" orient="auto" fill="#000000" fill-opacity="1">
+      <path fill-rule="evenodd" d="M 9,4 L 1,9 L 3,4 L 1,-1 Z " />
+    </marker>
+    <rect id="def45" width="50" height="30" />
+    <clipPath id="def46">
+      <use xlink:href="#def45" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def47">
+      <use xlink:href="#def45" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def48">
+      <use xlink:href="#def45" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def49">
+      <use xlink:href="#def45" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def50">
+      <use xlink:href="#def45" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def51">
+      <use xlink:href="#def45" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def52">
+      <use xlink:href="#def45" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def53">
+      <use xlink:href="#def45" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def54">
+      <use xlink:href="#def45" transform="translate(0,0)" />
+    </clipPath>
+    <clipPath id="def55">
+      <use xlink:href="#def45" transform="translate(0,0)" />
+    </clipPath>
+    <rect id="def56" width="88" height="30" />
+    <clipPath id="def57">
+      <use xlink:href="#def56" transform="translate(0,0)" />
+    </clipPath>
+    <rect id="def58" width="51" height="30" />
+    <clipPath id="def59">
+      <use xlink:href="#def58" transform="translate(0,0)" />
+    </clipPath>
+    <rect id="def60" width="83" height="44" />
+    <clipPath id="def61">
+      <use xlink:href="#def60" transform="translate(0,0)" />
+    </clipPath>
+    <rect id="def62" width="82" height="58" />
+    <clipPath id="def63">
+      <use xlink:href="#def62" transform="translate(0,0)" />
+    </clipPath>
+    <rect id="def64" width="75" height="58" />
+    <clipPath id="def65">
+      <use xlink:href="#def64" transform="translate(0,0)" />
+    </clipPath>
+    <rect id="def66" width="72" height="58" />
+    <clipPath id="def67">
+      <use xlink:href="#def66" transform="translate(0,0)" />
+    </clipPath>
+    <rect id="def68" width="97" height="58" />
+    <clipPath id="def69">
+      <use xlink:href="#def68" transform="translate(0,0)" />
+    </clipPath>
+    <rect id="def70" width="67" height="44" />
+    <clipPath id="def71">
+      <use xlink:href="#def70" transform="translate(0,0)" />
+    </clipPath>
+    <rect id="def72" width="68" height="44" />
+    <clipPath id="def73">
+      <use xlink:href="#def72" transform="translate(0,0)" />
+    </clipPath>
+    <rect id="def74" width="73" height="44" />
+    <clipPath id="def75">
+      <use xlink:href="#def74" transform="translate(0,0)" />
+    </clipPath>
+  </defs>
+  <g>
+    <rect x="31" y="255" width="1585" height="463.5" rx="0" ry="0" style="fill:#FFFFFF;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <line x1="81" y1="255" x2="81" y2="718.5" style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text style="font-family:'Segoe UI';font-size:8pt;font-weight:bold;fill:#000000;clip-path:url(#5bff58c9-1dae-4e4b-95df-739b827d5302HeaderClipPath);" transform="rotate(-90 31 718.5)">
+      <tspan x="249.3394" y="747.5">Firma</tspan>
+    </text>
+  </g>
+  <g>
+    <rect x="81" y="255" width="1535" height="195" rx="0" ry="0" style="fill:none;stroke:#505050;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <line x1="111" y1="255" x2="111" y2="450" style="stroke:#505050;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text style="font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#b9b05231-43ad-4f72-a09c-819c643da916HeaderClipPath);" transform="rotate(-90 81 450)">
+      <tspan x="160.717" y="469">Fabryka</tspan>
+    </text>
+  </g>
+  <g>
+    <rect x="81" y="450" width="1535" height="268.5" rx="0" ry="0" style="fill:none;stroke:#505050;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <line x1="111" y1="450" x2="111" y2="718.5" style="stroke:#505050;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text style="font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#f1b79b4b-c2d8-464b-a2a9-e2e4b7c132daHeaderClipPath);" transform="rotate(-90 81 718.5)">
+      <tspan x="194.5738" y="737.5">Magazyn</tspan>
+    </text>
+  </g>
+  <g>
+    <rect x="31" y="778" width="1585" height="197" rx="0" ry="0" style="fill:#FFFFFF;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <line x1="81" y1="778" x2="81" y2="975" style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text style="font-family:'Segoe UI';font-size:8pt;font-weight:bold;fill:#000000;clip-path:url(#f2e8a71e-77ba-4b12-a1a2-ad7932ed1478HeaderClipPath);" transform="rotate(-90 31 975)">
+      <tspan x="105.7873" y="1004">Dostawcy</tspan>
+    </text>
+  </g>
+  <use id="8ed92241-c6ff-477b-babd-dfc7cde24452" xlink:href="#def9" class="style1" x="743" y="610.5" />
+  <g id="8ed92241-c6ff-477b-babd-dfc7cde24452Container" transform="translate(743,610.5) rotate(0,25,25)" />
+  <use id="21e316e8-372a-4f16-aede-77036817afc3" xlink:href="#def11" class="style2" x="132" y="333" />
+  <g id="21e316e8-372a-4f16-aede-77036817afc3Container" transform="translate(132,333) rotate(0,25,25)" />
+  <use id="eeb8e61e-cd4a-438d-9ac2-21de8b65d580" xlink:href="#def13" class="style3" x="202" y="318" />
+  <g id="eeb8e61e-cd4a-438d-9ac2-21de8b65d580Container" transform="translate(202,318) rotate(0,25,25)">
+    <text id="eeb8e61e-cd4a-438d-9ac2-21de8b65d580Text" class="style4">	<tspan x="33" y="18"> Zleć </tspan><tspan x="12" y="32">dostarczenie </tspan><tspan x="30" y="46">części</tspan></text>
+  </g>
+  <use id="b92225a2-4bd9-4b27-9490-1dd1f16b3700" xlink:href="#def15" class="style5" x="500" y="558.5" />
+  <g id="b92225a2-4bd9-4b27-9490-1dd1f16b3700Container" transform="translate(500,558.5) rotate(0,25,25)" />
+  <use id="0fa3fc7e-427c-43e3-a277-e847fffdc3a8" xlink:href="#def13" class="style3" x="303" y="548.5" />
+  <g id="0fa3fc7e-427c-43e3-a277-e847fffdc3a8Container" transform="translate(303,548.5) rotate(0,25,25)">
+    <text id="0fa3fc7e-427c-43e3-a277-e847fffdc3a8Text" class="style6">	<tspan x="13" y="25">Sprawdź ilość </tspan><tspan x="30" y="39">części</tspan></text>
+  </g>
+  <use id="f6a62cd6-afcc-4564-9ee1-f204f9b8aa2b" xlink:href="#def13" class="style3" x="584" y="460.5" />
+  <g id="f6a62cd6-afcc-4564-9ee1-f204f9b8aa2bContainer" transform="translate(584,460.5) rotate(0,25,25)">
+    <text id="f6a62cd6-afcc-4564-9ee1-f204f9b8aa2bText" class="style7">	<tspan x="7" y="25">Dostarcz części </tspan><tspan x="19" y="39">do fabryki</tspan></text>
+  </g>
+  <use id="b9e0fd08-3a6e-4142-a8d8-a9d78d4b825b" xlink:href="#def13" class="style3" x="714" y="258" />
+  <g id="b9e0fd08-3a6e-4142-a8d8-a9d78d4b825bContainer" transform="translate(714,258) rotate(0,25,25)">
+    <text id="b9e0fd08-3a6e-4142-a8d8-a9d78d4b825bText" class="style8">	<tspan x="17" y="32">Wyprodukuj</tspan></text>
+  </g>
+  <use id="23146586-fc2a-4e02-b03c-4396749ea04e" xlink:href="#def11" class="style9" x="1520" y="273" />
+  <g id="23146586-fc2a-4e02-b03c-4396749ea04eContainer" transform="translate(1520,273) rotate(0,25,25)" />
+  <use id="8851fe23-745a-4107-9259-ca7130bdfc1b" xlink:href="#def15" class="style5" x="674" y="558.5" />
+  <g id="8851fe23-745a-4107-9259-ca7130bdfc1bContainer" transform="translate(674,558.5) rotate(0,25,25)" />
+  <g>
+    <path style="fill:#A6A61D;stroke:#A6A61D;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 13.663396,7.530912 3.929342,0 0,7.054956 7.054956,0 0,4.018646 -7.054956,0 0,7.054956 -3.929342,0 0,-7.054956 -6.965653,0 0,-4.018646 6.965653,0 z" transform="translate(678.5,562)" />
+  </g>
+  <use id="571d1a1f-0d44-4b9b-a424-f2487b4572b1" xlink:href="#def13" class="style3" x="785" y="548.5" />
+  <g id="571d1a1f-0d44-4b9b-a424-f2487b4572b1Container" transform="translate(785,548.5) rotate(0,25,25)">
+    <text id="571d1a1f-0d44-4b9b-a424-f2487b4572b1Text" class="style10">	<tspan x="26" y="18">Zamów </tspan><tspan x="20" y="32">brakujący </tspan><tspan x="30" y="46">towar</tspan></text>
+  </g>
+  <g transform="translate (571.9,395.89) scale(0.26)">
+    <path style="fill:#03689A;stroke:#03689A;stroke-width:4px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 55,68.433613 30.892857,15 31.428573,-15 0,39.821427 -62.32143,0 0,-39.821427" transform="translate(785,548.5)" />
+    <path style="fill:#03689A;stroke:#03689A;stroke-width:4px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 85.892857,76.826463 31.428573,-17.14285 -62.32143,0 30.892857,17.14285" transform="translate(785,548.5)" />
+  </g>
+  <use id="209a6ead-358f-44f9-9dc1-b079fe6bb36a" xlink:href="#def23" class="style11" x="934" y="563.5" />
+  <g id="209a6ead-358f-44f9-9dc1-b079fe6bb36aContainer" transform="translate(934,563.5) rotate(0,25,25)" />
+  <g>
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 24.647694,15.612856 a 8.5284595,8.5284595 0 1 1 -17.0569195,0 8.5284595,8.5284595 0 1 1 17.0569195,0 z" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 19.468106,10.031403 -3.482826,5.626104 8.573111,0" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 15.98528,7.084396 0,2.947007" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 15.98528,24.141315 0,-2.857704" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 7.5907754,15.657507 2.5897936,0" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 11.609421,22.712463 1.428852,-2.053974" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 11.609421,8.669529 1.428852,1.986997" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 19.736016,9.663027 20.450442,8.669529" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 9.0196272,11.549558 1.9423458,1.138616" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 23.263494,11.549558 -2.210255,1.138616" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 9.0196272,20.524534 11.208579,18.770719" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 18.709029,20.524534 1.741413,2.382309" transform="translate(933,563)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 21.053239,18.770719 2.210255,1.753815" transform="translate(933,563)" />
+  </g>
+  <use id="fdf20cc1-7d9f-4341-b9d5-9b51038082be" xlink:href="#def15" class="style5" x="1157" y="558.5" />
+  <g id="fdf20cc1-7d9f-4341-b9d5-9b51038082beContainer" transform="translate(1157,558.5) rotate(0,25,25)" />
+  <use id="1204104a-9afa-4af8-b3d8-54fc82c11c8a" xlink:href="#def15" class="style5" x="1258" y="480.5" />
+  <g id="1204104a-9afa-4af8-b3d8-54fc82c11c8aContainer" transform="translate(1258,480.5) rotate(0,25,25)" />
+  <g>
+    <path style="fill:#A6A61D;stroke:#A6A61D;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 13.663396,7.530912 3.929342,0 0,7.054956 7.054956,0 0,4.018646 -7.054956,0 0,7.054956 -3.929342,0 0,-7.054956 -6.965653,0 0,-4.018646 6.965653,0 z" transform="translate(1262.5,484)" />
+  </g>
+  <use id="f19ec2c1-e756-40a2-8321-b05499902863" xlink:href="#def13" class="style3" x="1355" y="470.5" />
+  <g id="f19ec2c1-e756-40a2-8321-b05499902863Container" transform="translate(1355,470.5) rotate(0,25,25)">
+    <text id="f19ec2c1-e756-40a2-8321-b05499902863Text" class="style12">	<tspan x="28" y="32">Zapłać</tspan></text>
+  </g>
+  <g transform="translate (993.7,338.17) scale(0.26)">
+    <path style="fill:#03689A;stroke:#03689A;stroke-width:4px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 55,68.433613 30.892857,15 31.428573,-15 0,39.821427 -62.32143,0 0,-39.821427" transform="translate(1355,470.5)" />
+    <path style="fill:#03689A;stroke:#03689A;stroke-width:4px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 85.892857,76.826463 31.428573,-17.14285 -62.32143,0 30.892857,17.14285" transform="translate(1355,470.5)" />
+  </g>
+  <use id="bbc4d728-f451-4746-b593-6edce5d162fb" xlink:href="#def13" class="style3" x="1015" y="258" />
+  <g id="bbc4d728-f451-4746-b593-6edce5d162fbContainer" transform="translate(1015,258) rotate(0,25,25)">
+    <text id="bbc4d728-f451-4746-b593-6edce5d162fbText" class="style13">	<tspan x="11" y="25">Sprawdź stan </tspan><tspan x="15" y="39">zamówienia</tspan></text>
+  </g>
+  <use id="f22c0f1b-a054-4dd0-9ef6-56913b4dad33" xlink:href="#def13" class="style3" x="1394" y="258" />
+  <g id="f22c0f1b-a054-4dd0-9ef6-56913b4dad33Container" transform="translate(1394,258) rotate(0,25,25)">
+    <text id="f22c0f1b-a054-4dd0-9ef6-56913b4dad33Text" class="style14">	<tspan x="30" y="25">Wyślij </tspan><tspan x="15" y="39">zamówienie</tspan></text>
+  </g>
+  <use id="b6187c7b-30f3-4567-8226-260932aa9cec" xlink:href="#def13" class="style3" x="1015" y="548.5" />
+  <g id="b6187c7b-30f3-4567-8226-260932aa9cecContainer" transform="translate(1015,548.5) rotate(0,25,25)">
+    <text id="b6187c7b-30f3-4567-8226-260932aa9cecText" class="style15">	<tspan x="24" y="18">Odbierz </tspan><tspan x="11" y="32">odpowiedź od </tspan><tspan x="21" y="46">dostawcy</tspan></text>
+  </g>
+  <use id="4c803ade-ed4b-4f18-83e3-4761ea6ae80b" xlink:href="#def11" class="style9" x="554" y="318" />
+  <g id="4c803ade-ed4b-4f18-83e3-4761ea6ae80bContainer" transform="translate(554,318) rotate(0,25,25)" />
+  <use id="2fe6cb60-5435-4a6b-81fa-6a21867fd589" xlink:href="#def9" class="style1" x="751" y="848.5" />
+  <g id="2fe6cb60-5435-4a6b-81fa-6a21867fd589Container" transform="translate(751,848.5) rotate(0,25,25)" />
+  <use id="72ad617f-95b9-426a-9a98-266dc7e549da" xlink:href="#def15" class="style5" x="500" y="853.5" />
+  <g id="72ad617f-95b9-426a-9a98-266dc7e549daContainer" transform="translate(500,853.5) rotate(0,25,25)" />
+  <use id="15e8f348-ef5d-4566-adb6-e5e8c515bba8" xlink:href="#def23" class="style11" x="916" y="798.5" />
+  <g id="15e8f348-ef5d-4566-adb6-e5e8c515bba8Container" transform="translate(916,798.5) rotate(0,25,25)" />
+  <g>
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 8.2158981,12.44259 7.8586849,6.161924 7.858685,-6.161924 0,9.198234 -15.7173699,0 z" transform="translate(915,798.5)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 9.0196272,9.67419 16.074583,15.657507 23.040236,9.67419 z" transform="translate(915,798.5)" />
+  </g>
+  <use id="9693b1bf-785f-4c06-aa11-56b4c85fdb99" xlink:href="#def11" class="style9" x="1197" y="798.5" />
+  <g id="9693b1bf-785f-4c06-aa11-56b4c85fdb99Container" transform="translate(1197,798.5) rotate(0,25,25)" />
+  <use id="d02a4b76-3af6-47ac-9ec2-96ce92790aef" xlink:href="#def13" class="style3" x="339" y="843.5" />
+  <g id="d02a4b76-3af6-47ac-9ec2-96ce92790aefContainer" transform="translate(339,843.5) rotate(0,25,25)">
+    <text id="d02a4b76-3af6-47ac-9ec2-96ce92790aefText" class="style16">	<tspan x="12" y="25">Sprawdź, czy </tspan><tspan x="22" y="39">jest towar</tspan></text>
+  </g>
+  <use id="89cadaa0-5fc0-4307-9d4c-24de9e9fab45" xlink:href="#def11" class="style11" x="237" y="858.5" />
+  <g id="89cadaa0-5fc0-4307-9d4c-24de9e9fab45Container" transform="translate(237,858.5) rotate(0,25,25)" />
+  <g>
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 8.2158981,12.44259 7.8586849,6.161924 7.858685,-6.161924 0,9.198234 -15.7173699,0 z" transform="translate(236,858.5)" />
+    <path style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 9.0196272,9.67419 16.074583,15.657507 23.040236,9.67419 z" transform="translate(236,858.5)" />
+  </g>
+  <use id="362fcfb5-9f02-4330-9c4b-b03c6232eaaa" xlink:href="#def13" class="style3" x="617" y="912.5" />
+  <g id="362fcfb5-9f02-4330-9c4b-b03c6232eaaaContainer" transform="translate(617,912.5) rotate(0,25,25)">
+    <text id="362fcfb5-9f02-4330-9c4b-b03c6232eaaaText" class="style17">	<tspan x="30" y="18">Wyślij </tspan><tspan x="13" y="32">informację o </tspan><tspan x="24" y="46">brakach</tspan></text>
+  </g>
+  <use id="d9b20872-7c1c-42c2-b587-fe260a965e63" xlink:href="#def13" class="style3" x="617" y="783.5" />
+  <g id="d9b20872-7c1c-42c2-b587-fe260a965e63Container" transform="translate(617,783.5) rotate(0,25,25)">
+    <text id="d9b20872-7c1c-42c2-b587-fe260a965e63Text" class="style18">	<tspan x="9" y="25">Wyślij towar + </tspan><tspan x="27" y="39">fakturę</tspan></text>
+  </g>
+  <g transform="translate (447.58,569.79) scale(0.26)">
+    <path style="fill:#03689A;stroke:#03689A;stroke-width:4px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 55,68.433613 30.892857,15 31.428573,-15 0,39.821427 -62.32143,0 0,-39.821427" transform="translate(617,783.5)" />
+    <path style="fill:#03689A;stroke:#03689A;stroke-width:4px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 85.892857,76.826463 31.428573,-17.14285 -62.32143,0 30.892857,17.14285" transform="translate(617,783.5)" />
+  </g>
+  <use id="b8ed598e-45a2-449e-8307-f56d549900e5" xlink:href="#def13" class="style3" x="1034" y="783.5" />
+  <g id="b8ed598e-45a2-449e-8307-f56d549900e5Container" transform="translate(1034,783.5) rotate(0,25,25)">
+    <text id="b8ed598e-45a2-449e-8307-f56d549900e5Text" class="style19">	<tspan x="24" y="25">Odbierz </tspan><tspan x="20" y="39">pieniądze</tspan></text>
+  </g>
+  <use id="26bdd2b0-9e36-447f-bf71-ad589507cb3f" xlink:href="#def15" class="style5" x="1298" y="268" />
+  <g id="26bdd2b0-9e36-447f-bf71-ad589507cb3fContainer" transform="translate(1298,268) rotate(0,25,25)" />
+  <use id="ecf16ff7-f32b-4734-8ec8-9f924ca73178" xlink:href="#def15" class="style5" x="1298" y="363" />
+  <g id="ecf16ff7-f32b-4734-8ec8-9f924ca73178Container" transform="translate(1298,363) rotate(0,25,25)" />
+  <polyline id="22fd6feb-d5d7-417a-9fbb-9abed73e581e" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 52,0 " marker-end="url(#defMarker)" transform="translate(1105,578)" />
+  <text x="1131" y="576" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="ef2f9e89-e968-4f2c-bb99-20ab6f9276c3" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 57,0 " marker-end="url(#defMarker)" transform="translate(1298,500)" />
+  <text x="1326.5" y="498" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="e2c30c27-3285-476f-946a-f41f7d1e2570" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 51,0 " marker-end="url(#defMarker)" transform="translate(964,578)" />
+  <text x="989.5" y="576" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="2ce00cb4-d78d-4172-bdc3-cebee242499d" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="238,65 12,65 6,64.99997 2.686279,65 0,62.31369 0,59 0,0 " marker-end="url(#defMarker)" transform="translate(1060,318)" />
+  <text x="1060" y="381" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="bc60b677-cc84-48f3-9dd5-41562fd8c45f" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="649.0001,33.00003 649.0001,12.00003 648.9999,6 648.9999,2.68631 646.3137,0 642.9999,0 642.9999,0 642.9999,3.051758E-05 642.9999,3.051758E-05 12.00006,3.051758E-05 6,0 2.68634,3.051758E-05 0,2.68631 0,6.000031 6.103516E-05,13.00003 " marker-end="url(#defMarker)" transform="translate(629,447)" />
+  <text x="953.4999" y="445" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="bf36bb35-33e5-4016-9bd8-3a341599a59f" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 72,0 " marker-end="url(#defMarker)" transform="translate(267,873)" />
+  <text x="303" y="871" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="c26adbb9-7831-4947-9779-65eb41aececc" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 209,0 " marker-end="url(#defMarker)" transform="translate(707,813)" />
+  <text x="811.5" y="811" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="8423e8fd-63ab-4cd2-8290-b18ce177b6de" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-dasharray:1,8;stroke-linecap=round;stroke-width:1;" points="67,0 67,34 66.99994,39.99994 66.99994,43.31366 64.31366,45.99994 61,45.99994 12,46 6,45.99994 2.686279,46 0,43.31366 0,40 0,2 " marker-end="url(#defMarker)" transform="translate(763,608)" />
+  <text x="796.5" y="652" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="18e94c2f-c3d5-4aeb-a162-4f8829fc7b68" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 71,0 " marker-end="url(#defMarker)" transform="translate(429,873)" />
+  <text x="464.5" y="871" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="add86442-c238-4adc-b9f8-f4339173b9a0" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 211,0 " marker-end="url(#defMarker)" transform="translate(804,288)" />
+  <text x="909.5" y="286" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="67108c73-2ad8-4b35-8dae-958a8d1ce581" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-dasharray:5,5;stroke-width:1;" points="0,391.5001 170,391.5001 176,391.5 179.3137,391.5 181.9999,388.8137 181.9999,385.5 182,267.5001 182,267.5 179.2385,267.5001 177,265.2615 176.9999,262.5001 176.9999,259.7386 179.2385,257.5001 181.9999,257.5 182,257.5001 182,12.00006 181.9999,6.000061 181.9999,2.68634 184.6863,6.103516E-05 187.9999,0 259,6.103516E-05 264.9999,6.103516E-05 268.3137,0 270.9999,2.68634 270.9999,6 270.9999,6 270.9999,6.000061 270.9999,6.000061 271,15.50006 271,21.50006 271,24.81372 273.6863,27.50006 277,27.5 308,27.50006 " marker-end="url(#defMarker)" transform="translate(707,550.5)" />
+  <text x="1115.5" y="548.5" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="118352f1-8e3f-435b-86fe-e7d1fb0e0878" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,78.00003 33,78.00003 39,77.99997 42.3136,77.99997 44.99988,75.31369 44.99988,71.99997 45,12.00003 44.99988,6.000031 44.99988,2.68631 47.68628,3.051758E-05 50.99988,0 61,3.051758E-05 " marker-end="url(#defMarker)" transform="translate(1197,500)" />
+  <text x="1242" y="537" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="5e2b3bac-aed7-4ebb-a581-aa3bd14a6487" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-dasharray:5,5;stroke-width:1;" points="0,235.0001 170,235.0001 176,235 179.3137,235 181.9999,232.3137 181.9999,229 182,106.0001 181.9999,100.0001 181.9999,96.68634 184.6863,94.00006 187.9999,94 259,94.00006 265,94 268.3137,94 270.9999,91.31372 270.9999,88 271,12.00006 270.9999,6.000061 270.9999,2.68634 273.6863,6.103516E-05 276.9999,0 308,6.103516E-05 " marker-end="url(#defMarker)" transform="translate(707,578)" />
+  <text x="1115.5" y="670" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="2ce2c733-74fa-4e4f-a950-9840fdd317e5" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,60.00006 26.5,60.00006 32.5,60 35.81366,60 38.49994,57.31372 38.49994,54 38.5,12.00006 38.49994,6.000061 38.49994,2.68634 41.18628,6.103516E-05 44.49994,0 77,6.103516E-05 " marker-end="url(#defMarker)" transform="translate(540,813)" />
+  <text x="578.5" y="840.9999" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="16f79f47-780a-482d-b4c0-d7cbcc8f8894" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,5.000061 9,5.000061 8.999939,5.000061 8.999939,2.238586 11.23853,6.103516E-05 13.99994,6.103516E-05 16.76141,0 18.99994,2.238586 18.99994,5 18.99994,5 18.99994,5.000061 18.99994,5.000061 19,5.000061 59,5.000061 " marker-end="url(#defMarker)" transform="translate(875,578)" />
+  <text x="904.5" y="576" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="f197cfd5-368f-41e3-a018-4101783b9309" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 40,0 " marker-end="url(#defMarker)" transform="translate(162,348)" />
+  <text x="182" y="346" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="41244ba7-6ec9-4127-8f2b-fd00de7cb00b" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 88,0 " marker-end="url(#defMarker)" transform="translate(946,813)" />
+  <text x="990" y="811" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="77e026a0-2afe-42c7-a167-0320fe3e6dde" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,88.00003 12.5,88.00003 18.5,87.99997 21.81366,87.99997 24.49994,85.31369 24.49994,81.99997 24.5,12.00003 24.49994,6.000031 24.49994,2.68631 27.18628,3.051758E-05 30.49994,0 44,3.051758E-05 " marker-end="url(#defMarker)" transform="translate(540,490)" />
+  <text x="564.5" y="532" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="b08e9027-e523-40e4-8bde-8bbadda6b27c" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,6.103516E-05 26.5,6.103516E-05 32.49994,6.103516E-05 35.81366,0 38.49994,2.68634 38.49994,6 38.49994,6 38.49994,6.000061 38.49994,6.000061 38.5,57.00006 38.5,63.00006 38.5,66.31372 41.18628,69.00006 44.5,69 77,69.00006 " marker-end="url(#defMarker)" transform="translate(540,873)" />
+  <text x="578.5" y="905.5001" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="d5d87dd0-da37-4cfa-92a5-9d3e7a8cd41a" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-dasharray:1,8;stroke-linecap=round;stroke-width:1;" points="0,6.103516E-05 10,6.103516E-05 15.99994,6.103516E-05 19.31366,0 21.99994,2.68634 21.99994,6 21.99994,6 21.99994,6.000061 21.99994,6.000061 22,48.00006 22,54.00006 22,57.31372 24.68628,60.00006 28,60 44,60.00006 " marker-end="url(#defMarker)" transform="translate(707,813)" />
+  <text x="729" y="841.0001" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="d5ad3525-1146-4642-a07a-cb7c51051349" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-dasharray:5,5;stroke-width:1;" points="578,0 578,41 577.9999,41 580.7614,40.99994 582.9999,43.23853 582.9999,45.99994 583,48.76141 580.7614,50.99994 578,50.99994 578,50.99994 578,50.99994 578,50.99994 578,51 578,95 577.9999,100.9999 577.9999,104.3137 575.3137,106.9999 572,106.9999 12.00002,107 5.999985,106.9999 2.686295,107 0,109.6863 0,113 1.525879E-05,250 " marker-end="url(#defMarker)" transform="translate(252,608)" />
+  <text x="541" y="713" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="af242855-9f08-479a-b0e7-12fb93d952ff" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 107,0 " marker-end="url(#defMarker)" transform="translate(393,578)" />
+  <text x="446.5" y="576" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="9c442b3f-6836-42cd-85e3-2298e053b0a7" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 36,0 " marker-end="url(#defMarker)" transform="translate(1484,288)" />
+  <text x="1502" y="286" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="82653d48-10eb-40ce-a99f-edb7bf322fa8" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 71,0 " marker-end="url(#defMarker)" transform="translate(714,578)" />
+  <text x="749.5" y="576" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="b408e289-eeed-4436-8305-23563bb027d5" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 5.5,0 5.5,230 11,230 " marker-end="url(#defMarker)" transform="translate(292,348)" />
+  <text x="297.5" y="461" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="6ba661ce-1815-4f2e-af63-34ec9a9f2ff8" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 73,0 " marker-end="url(#defMarker)" transform="translate(1124,813)" />
+  <text x="1160.5" y="811" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="eb990269-3888-4f25-bc1f-1a49938ff3dc" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 134,0 " marker-end="url(#defMarker)" transform="translate(540,578)" />
+  <text x="607" y="576" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="854fad6b-30d7-415e-b1c4-a84e66d380a2" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 0,55 " marker-end="url(#defMarker)" transform="translate(1318,308)" />
+  <text x="1318" y="333.5" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="9432a478-328b-4d63-b81f-361a8277806a" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="140,0 140,3 139.9999,8.999969 139.9999,12.31369 137.3137,14.99997 134,14.99997 0,15 " marker-end="url(#defMarker)" transform="translate(584,318)" />
+  <g transform="translate (207.2,85.4) scale(0.7)">
+    <circle cx="739" cy="333" r="15" style="stroke: #969149; fill: #FEFAEF;" />
+    <circle cx="739" cy="333" r="11" style="stroke: #969149; fill: #FEFAEF;" />
+    <path style="fill:none;stroke:#969149;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 8.4838078,22.980373 12.591757,8.959764 20.450442,15.657507 24.469088,8.959764 20.450442,22.980373 12.591757,15.657507 z" transform="translate(723,317)" />
+  </g>
+  <text x="724" y="331" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="f1e22aaa-8f5e-4244-bb3b-76fed21522ed" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,172 73,172 79,172 82.31366,172 84.99994,169.3137 84.99994,166 85,134 85,134 82.23853,134 80,131.7614 79.99994,129 79.99994,126.2386 82.23853,124 84.99994,124 85,124 85,0 " marker-end="url(#defMarker)" transform="translate(674,318)" />
+  <text x="759" y="488" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="c3f73c4d-b57e-44a0-8619-a2615d056ef1" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="347.0001,24.00006 347.0001,12.00006 346.9999,6 346.9999,2.68634 344.3137,0 340.9999,0 340.9999,0 340.9999,6.103516E-05 340.9999,6.103516E-05 12.00006,6.103516E-05 6,0 2.68634,6.103516E-05 0,2.68634 0,6.000061 6.103516E-05,14.00006 " marker-end="url(#defMarker)" transform="translate(830,534)" />
+  <text x="1003.5" y="532" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="81b0f0ed-9458-4bb9-8f8e-4e14e12b7f92" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 56,0 " marker-end="url(#defMarker)" transform="translate(1338,288)" />
+  <text x="1366" y="286" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="3f62eb5f-3f4e-4736-b33d-f29c515d27be" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="65,38 65,33 64.99994,26.99994 64.99994,23.68628 62.31366,20.99994 58.99994,20.99994 58.99994,20.99994 58.99994,21 58.99994,21 12,21 6,20.99994 2.686279,21 0,18.31366 0,15 0,0 " marker-end="url(#defMarker)" transform="translate(629,520)" />
+  <text x="661.5" y="539" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="56a1b1b2-9bc7-4210-9c86-c6a4f5c86410" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,0 193,0 " marker-end="url(#defMarker)" transform="translate(1105,288)" />
+  <text x="1201.5" y="286" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="c203bd8a-12ba-402f-ba0e-a357dc04d7e5" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="0,129.0001 177,129.0001 176.9999,129.0001 176.9999,126.2386 179.2385,124.0001 181.9999,124.0001 184.7614,124 186.9999,126.2386 186.9999,129 186.9999,129 186.9999,129.0001 186.9999,129.0001 187,129.0001 419,129.0001 425,129 428.3136,129 430.9999,126.3137 430.9999,123 431,12.00006 430.9999,6.000061 430.9999,2.68634 433.6863,6.103516E-05 436.9999,0 490,6.103516E-05 " marker-end="url(#defMarker)" transform="translate(707,813)" />
+  <text x="1138" y="875.4999" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="7f26828e-3426-4bac-996d-f8f4cfe659d5" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-dasharray:5,5;stroke-width:1;" points="424.0001,50.50003 393.0001,50.50003 387.0001,50.5 383.6863,50.50003 381.0001,47.81372 381.0001,44.50003 381.0001,12.00003 380.9999,6 380.9999,2.68631 378.3137,0 374.9999,0 374.9999,0 374.9999,3.051758E-05 374.9999,3.051758E-05 352.0001,3.051758E-05 351.9999,0 351.9999,2.761444 349.7614,5 347.0001,5 344.2386,5.000031 342.0001,2.761444 342.0001,3.051758E-05 342.0001,3.051758E-05 12.00006,3.051758E-05 6,0 2.68634,3.051758E-05 0,2.68631 0,6.000031 6.103516E-05,79.50003 0,79.50003 2.761475,79.49997 5,81.73856 5,84.49997 5.000061,87.26144 2.761475,89.49997 6.103516E-05,89.49997 6.103516E-05,89.49997 6.103516E-05,89.49997 6.103516E-05,89.49997 6.103516E-05,89.50003 6.103516E-05,96.00003 0,96.00003 2.761475,95.99997 5,98.23856 5,101 5.000061,103.7614 2.761475,106 6.103516E-05,106 6.103516E-05,106 6.103516E-05,106 6.103516E-05,106 6.103516E-05,106 6.103516E-05,123.5 0,123.5 2.761475,123.5 5,125.7386 5,128.5 5.000061,131.2614 2.761475,133.5 6.103516E-05,133.5 6.103516E-05,133.5 6.103516E-05,133.5 6.103516E-05,133.5 6.103516E-05,133.5 6.103516E-05,217.5 0,217.5 2.761475,217.5 5,219.7386 5,222.5 5.000061,225.2614 2.761475,227.5 6.103516E-05,227.5 6.103516E-05,227.5 6.103516E-05,227.5 6.103516E-05,227.5 6.103516E-05,227.5 6.103516E-05,348.5 " marker-end="url(#defMarker)" transform="translate(931,449.5)" />
+  <text x="1312" y="447.5" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <polyline id="38f335e7-4956-4517-a9cb-53ec825d7f45" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="522,65 289,65 288.9999,64.99997 288.9999,67.76141 286.7614,69.99997 284,69.99997 281.2385,70 279,67.76141 279,65 279,65 12,65 6,64.99997 2.686279,65 0,62.31369 0,59 0,0 " marker-end="url(#defMarker)" transform="translate(776,318)" />
+  <text x="776" y="381" style="font-family:'Segoe UI';font-size:8pt;fill:#000000;">
+  </text>
+  <g id="Text_6c0d6123-ebb5-4764-b31b-f545e776d094Container" transform="translate(565,786) rotate(0,25,25)">
+    <text id="Text_6c0d6123-ebb5-4764-b31b-f545e776d094Text" class="style21">	<tspan x="7" y="14">Tak</tspan></text>
+  </g>
+  <g id="Text_33ef14e6-12b9-4037-b66f-357d5d46d9a3Container" transform="translate(568,940) rotate(0,25,25)">
+    <text id="Text_33ef14e6-12b9-4037-b66f-357d5d46d9a3Text" class="style22">	<tspan x="7" y="14">Nie</tspan></text>
+  </g>
+  <g id="Text_b1e08fd3-6ac4-4716-8185-f8e0e354ddebContainer" transform="translate(1063,340) rotate(0,25,25)">
+    <text id="Text_b1e08fd3-6ac4-4716-8185-f8e0e354ddebText" class="style23">	<tspan x="7" y="14">Nie</tspan></text>
+  </g>
+  <g id="Text_b4bc9979-6715-4945-89b0-3923fd334522Container" transform="translate(1026,383) rotate(0,25,25)">
+    <text id="Text_b4bc9979-6715-4945-89b0-3923fd334522Text" class="style24">	<tspan x="7" y="14">Tak</tspan></text>
+  </g>
+  <g id="Text_9fb3f02b-0eb7-4702-acb6-b40567ac15e8Container" transform="translate(1315,314) rotate(0,25,25)">
+    <text id="Text_9fb3f02b-0eb7-4702-acb6-b40567ac15e8Text" class="style25">	<tspan x="7" y="14">Nie</tspan></text>
+  </g>
+  <g id="Text_68fe68e4-f3de-479a-9777-22a0bd724612Container" transform="translate(1166,514) rotate(0,25,25)">
+    <text id="Text_68fe68e4-f3de-479a-9777-22a0bd724612Text" class="style26">	<tspan x="7" y="14">Nie</tspan></text>
+  </g>
+  <g id="Text_bb1cea16-7fd0-4cd5-89c6-efa16a93360eContainer" transform="translate(1216,514) rotate(0,25,25)">
+    <text id="Text_bb1cea16-7fd0-4cd5-89c6-efa16a93360eText" class="style27">	<tspan x="7" y="14">Tak</tspan></text>
+  </g>
+  <g id="Text_799f70eb-ebf6-4533-a8ca-e50dafbb7635Container" transform="translate(604,584) rotate(0,25,25)">
+    <text id="Text_799f70eb-ebf6-4533-a8ca-e50dafbb7635Text" class="style28">	<tspan x="7" y="14">Nie</tspan></text>
+  </g>
+  <g id="Text_ad90be63-5931-4209-a503-7c6b1870432aContainer" transform="translate(1344,288) rotate(0,25,25)">
+    <text id="Text_ad90be63-5931-4209-a503-7c6b1870432aText" class="style29">	<tspan x="7" y="14">Tak</tspan></text>
+  </g>
+  <g id="Text_3d87d0f3-2810-4030-a66a-197e56ced7f5Container" transform="translate(535,504) rotate(0,25,25)">
+    <text id="Text_3d87d0f3-2810-4030-a66a-197e56ced7f5Text" class="style30">	<tspan x="7" y="14">Tak</tspan></text>
+  </g>
+  <g id="Text_72ad617f-95b9-426a-9a98-266dc7e549daContainer" transform="translate(476,900) rotate(0,25,25)">
+    <text id="Text_72ad617f-95b9-426a-9a98-266dc7e549daText" class="style31">	<tspan x="6" y="14">Czy jest towar?</tspan></text>
+  </g>
+  <g id="Text_2fe6cb60-5435-4a6b-81fa-6a21867fd589Container" transform="translate(726,904) rotate(0,25,25)">
+    <text id="Text_2fe6cb60-5435-4a6b-81fa-6a21867fd589Text" class="style32">	<tspan x="6" y="14">Faktura</tspan></text>
+  </g>
+  <g id="Text_ecf16ff7-f32b-4734-8ec8-9f924ca73178Container" transform="translate(1279,403) rotate(0,25,25)">
+    <text id="Text_ecf16ff7-f32b-4734-8ec8-9f924ca73178Text" class="style33">	<tspan x="6" y="14">Czy doszły już </tspan><tspan x="24" y="29">części?</tspan></text>
+  </g>
+  <g id="Text_1204104a-9afa-4af8-b3d8-54fc82c11c8aContainer" transform="translate(1244,516) rotate(0,25,25)">
+    <text id="Text_1204104a-9afa-4af8-b3d8-54fc82c11c8aText" class="style34">	<tspan x="26" y="14">Wyślij </tspan><tspan x="6" y="29">części+zapłać </tspan><tspan x="23" y="43">fakturę</tspan></text>
+  </g>
+  <g id="Text_fdf20cc1-7d9f-4341-b9d5-9b51038082beContainer" transform="translate(1140,604) rotate(0,25,25)">
+    <text id="Text_fdf20cc1-7d9f-4341-b9d5-9b51038082beText" class="style35">	<tspan x="29" y="14">Czy </tspan><tspan x="5" y="29">dostarczono </tspan><tspan x="20" y="43">części?</tspan></text>
+  </g>
+  <g id="Text_8851fe23-745a-4107-9259-ca7130bdfc1bContainer" transform="translate(658,604) rotate(0,25,25)">
+    <text id="Text_8851fe23-745a-4107-9259-ca7130bdfc1bText" class="style36">	<tspan x="13" y="14">Zamów +  </tspan><tspan x="6" y="29">wyślij to, co </tspan><tspan x="27" y="43">jest</tspan></text>
+  </g>
+  <g id="Text_26bdd2b0-9e36-447f-bf71-ad589507cb3fContainer" transform="translate(1271,219) rotate(0,25,25)">
+    <text id="Text_26bdd2b0-9e36-447f-bf71-ad589507cb3fText" class="style37">	<tspan x="40" y="14">Czy </tspan><tspan x="10" y="29">wyprodukowano </tspan><tspan x="30" y="43">całość?</tspan></text>
+  </g>
+  <g id="Text_b92225a2-4bd9-4b27-9490-1dd1f16b3700Container" transform="translate(487,604) rotate(0,25,25)">
+    <text id="Text_b92225a2-4bd9-4b27-9490-1dd1f16b3700Text" class="style38">	<tspan x="9" y="14">Czy części </tspan><tspan x="7" y="29">wystarczy?</tspan></text>
+  </g>
+  <g id="Text_21e316e8-372a-4f16-aede-77036817afc3Container" transform="translate(114,369) rotate(0,25,25)">
+    <text id="Text_21e316e8-372a-4f16-aede-77036817afc3Text" class="style39">	<tspan x="6" y="14">Rozpocznij </tspan><tspan x="10" y="29">realizację</tspan></text>
+  </g>
+  <g id="Text_8ed92241-c6ff-477b-babd-dfc7cde24452Container" transform="translate(726,666) rotate(0,25,25)">
+    <text id="Text_8ed92241-c6ff-477b-babd-dfc7cde24452Text" class="style40">	<tspan x="25" y="14">Opis </tspan><tspan x="6" y="29">zamówienia</tspan></text>
+  </g>
+  <image x="1526" y="1035" width="90" height="43" xlink:href="data:image/png;base64,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" />
+</svg>
